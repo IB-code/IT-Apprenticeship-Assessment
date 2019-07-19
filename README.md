@@ -16,7 +16,7 @@ Brick Breaker (platformer) is a Breakout clone in which the player must smash a 
 * Collision Detection
 * Track the score, wins, and lives
 
-### The following Power Ups should randomly drop from some bricks:
+#### The following Power Ups should randomly drop from some bricks:
 * Multiple Balls released to hit brick field. 
 * Extra Life
 * Brick hits reduce
